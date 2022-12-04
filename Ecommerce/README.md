@@ -31,7 +31,9 @@ and the admin has the ability to add new products, edit prices, sending emails t
 
 ## Contributing
 
-Thank you for Ahmed Essam
+Thanks to Ahmed Essam
 
+    
+    
 #### Thank you for your concern.
 
